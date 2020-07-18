@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    border: 2 px solid black; 
+    padding: 4px; 
+    height: 100px;
+    width: 50%;
+    background-color: aquamarine; 
+}
+
+.child {
+    position: relative;
+    border: 2px solid steelblue;
+    height: 50px;
+    width: 50%;
+    background-color: gray;
+}
