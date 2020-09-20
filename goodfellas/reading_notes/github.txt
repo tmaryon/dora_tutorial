@@ -1,0 +1,11 @@
+coders_computers.md :: "renamed file to lowercase/to match url"
+learning_markdown.md :: "renamed file for readability/to match url"
+
+
+
+**** NEED HELP WITH ****
+
+1. Remo
+2. Setting up github.io to share your work
+
+use the github.io site to share your work

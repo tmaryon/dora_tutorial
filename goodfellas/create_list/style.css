@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica;
+}
+
+/* h2 {
+    border: 0.5px dashed red;
+} */
+
+ul {
+    border: 1px solid black;
+    padding-bottom: 25px;
+} 
+
+/* li {
+    border: 1px dashed green;
+} */
