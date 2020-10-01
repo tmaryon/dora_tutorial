@@ -17,15 +17,35 @@
 //     this.mammal = true
 // }
 
-function Cat(name) {
-    this.name = name
-    this.color = "fawn"
-}
+// function Cat(name) {
+//     this.name = name
+//     this.color = "fawn"
+// }
 
-function Calico(name) {
-    this.name = name
-    this.says = "Meow"
-}
+// function Calico(name) {
+//     this.name = name
+//     this.says = "Meow"
+// }
 
-var myCalico = new Cat("Jules")
-console.log(myCalico)
+// var myCalico = new Cat("Jules")
+// console.log(myCalico)
+
+// function Aircraft(modelVal) {
+//     this.model = modelVal
+//     this.printModel = function () {
+//         console.log(this.model)
+//     }
+// }
+
+// var myPlane = new Aircraft("Cessna")
+// console.log(myPlane)
+// myPlane.printModel()
+
+// function unixEpochTime () {
+//     var d = new Date()
+//     return d.getTime()
+// }
+//  var testAlpha = unixEpochTime() // runs the function
+//  var testBeta  = unixEpochTime   // assigns the function
+//  console.log(testAlpha)
+//  console.log(testBeta)
